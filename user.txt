@@ -1,0 +1,6 @@
+admin
+msfadmin
+diretoria
+financeiro
+suporte
+joao.facao
